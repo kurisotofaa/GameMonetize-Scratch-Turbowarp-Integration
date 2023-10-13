@@ -1,2 +1,2 @@
 # GameMonetize-Scratch-Turbowarp-Integration
-Import this: as the extension
+Import this: https://kurisotofaa.github.io/GameMonetize-Scratch-Turbowarp-Integration/gamemonetize.js as the extension
